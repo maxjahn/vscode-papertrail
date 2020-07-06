@@ -4,11 +4,15 @@
 
 This extension will fetch (tail) event messages from papertrailapp.com and write it to the output pane. I built it to avoid having to switch between a browser and VS Code.
 
+To start receiving the events, simply execute the command `Papertrail: Start`
+
 This is an unoffical extension. I am in no means associated to papertrail or solarwinds.
 
 ## Requirements
 
-You will need to get an API (auth) token from papertrail first. Some information on this can be found in the official documentation on [https://help.papertrailapp.com/kb/how-it-works/http-api/#authentication]
+You will need to get an API (auth) token from papertrail first. Some information on this can be found in the official documentation on https://help.papertrailapp.com/kb/how-it-works/http-api/#authentication
+
+
 
 ## Extension Settings
 

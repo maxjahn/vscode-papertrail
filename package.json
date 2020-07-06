@@ -2,7 +2,7 @@
   "name": "papertrail",
   "displayName": "papertrail",
   "description": "unoffical minimal papertrail extension",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "maxian-io",
   "icon": "vscode-papertrail.png",
   "repository": {
@@ -19,12 +19,10 @@
   ],
   "main": "./out/extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "papertrail.startPapertrail",
-        "title": "Papertrail: Start "
-      }
-    ],
+    "commands": [{
+      "command": "papertrail.startPapertrail",
+      "title": "Papertrail: Start "
+    }],
     "configuration": {
       "type": "object",
       "title": "Papertrail Configuration",

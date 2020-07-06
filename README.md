@@ -10,9 +10,7 @@ This is an unoffical extension. I am in no means associated to papertrail or sol
 
 ## Requirements
 
-You will need to get an API (auth) token from papertrail first. Some information on this can be found in the official documentation on https://help.papertrailapp.com/kb/how-it-works/http-api/#authentication
-
-
+You will need to get an API (auth) token from papertrail first. Some information on this can be found in the official documentation on <https://help.papertrailapp.com/kb/how-it-works/http-api/#authentication>
 
 ## Extension Settings
 

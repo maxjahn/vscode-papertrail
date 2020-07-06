@@ -1,10 +1,13 @@
 {
   "name": "papertrail",
   "displayName": "papertrail",
-  "description": "some",
+  "description": "unoffical minimal papertrail extension",
   "version": "0.0.1",
   "publisher": "maxian-io",
-  "repository": {},
+  "icon": "https://github.com/maxjahn/vscode-papertrail/blob/master/vscode-papertrail.png",
+  "repository": {
+    "url": "https://github.com/maxjahn/vscode-papertrail"
+  },
   "engines": {
     "vscode": "^1.46.0"
   },

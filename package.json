@@ -4,7 +4,7 @@
   "description": "unoffical minimal papertrail extension",
   "version": "0.0.1",
   "publisher": "maxian-io",
-  "icon": "https://github.com/maxjahn/vscode-papertrail/blob/master/vscode-papertrail.png",
+  "icon": "vscode-papertrail.png",
   "repository": {
     "url": "https://github.com/maxjahn/vscode-papertrail"
   },
